@@ -10,7 +10,7 @@ Code and data relating to English & Caravaggi (in press) Where's Wallaby? Using 
 * theme_ac1.R - ggplot theme for plots
 
 *data_raw*
-* wallaby_modern_historic_merged.csv - All data used in the manuscript
+* wallaby_modern_historic_merged.csv - All data used in the manuscript, with the exception of data provided by Local Environmental Records Centres (LERCs) which were subject to data sharing agreements preventing further distribution. 
 
 *shapefiles*
 * chilterns_aonb - Chiltern Hills Area of Outstanding Natural Beauty boundary
