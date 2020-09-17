@@ -1,0 +1,138 @@
+year,type,latitude,longitude,grid.ref,region,locality,indiv.count,state,month,date,lerc,source,source.type.1,source.type,escapee,obs.comment,article
+2008,modern,53.18207,-2.07627,,England,,1,,2,27/02/2008,Staffordshire Ecological Record,NBN,nbn,records,null,,
+2008,modern,53.18207,-2.07627,,England,,1,,2,27/02/2008,Staffordshire Ecological Record,NBN,nbn,records,null,,
+2008,modern,53.18207,-2.07627,,England,,1,,2,27/02/2008,"Record, the Biodiversity Information System for Cheshire, Halton, Warrington and the Wirral",NBN,nbn,records,null,,
+2008,modern,53.18207,-2.07627,,England,,1,,9,26/09/2008,Staffordshire Ecological Record,NBN,nbn,records,null,,
+2008,modern,53.18207,-2.07627,,England,,1,,9,26/09/2008,"Record, the Biodiversity Information System for Cheshire, Halton, Warrington and the Wirral",NBN,nbn,records,null,,
+2009,modern,53.18207,-2.07627,,England,,1,,2,06/02/2009,Staffordshire Ecological Record,NBN,nbn,records,null,,
+2009,modern,53.17106,-1.99968,,England,Hangingstone Swithamley,1,alive,8,02/08/2009,Staffordshire Ecological Record,roaches.org.uk,media,media,null,Only included records from this site with photos (cat excluded!!),http://www.roaches.org.uk/wallabies.htm
+2009,modern,53.17106,-1.99968,,England,Lud Church,1,alive,3,29/03/2009,Staffordshire Ecological Record,roaches.org.uk,media,media,null,Only included records from this site with photos (cat excluded!!),http://www.roaches.org.uk/wallabies.htm
+2009,modern,53.16324,-1.98577,,England,The Roaches,1,alive,8,02/08/2009,Staffordshire Ecological Record,YouTube,youtube,media,null,Video by David Hobson,https://www.youtube.com/watch?v=LgSSsd9F5Zo&feature=youtu.be
+2009,modern,50.54898,-3.49528,,England,Teignmouth,1,alive,6,12/06/2009,Devon Biodiversity Records Centre,BBC News,media,media,null,Photos,http://news.bbc.co.uk/1/hi/england/devon/8098242.stm
+2009,modern,50.57607,-4.65282,,England,St Breward,2,alive,5,21/05/2009,ERCCIS,BBC News,media,media,null,Female and joey - breeding confirmed,http://news.bbc.co.uk/1/hi/england/cornwall/8064473.stm
+2009,modern,55.176122,-2.53538,,England,Kielder Falconry Centre,1,dead,,,,Yalden (2013),yalden,records,yes,"Escapee,killed by car",
+2010,modern,52.031469,-0.52726905,TL01133803,England,Millbrook,1,,4,12/04/2010,Bedfordshire and Luton BMRC,BMRC,lerc,records,null,,
+2010,modern,51.569808,-0.89822384,SU764862,England,"Rowe Wood, Fawley",1,,9,10/09/2010,Buckinghamshire and Milton Keynes Environmental Records Centre,BMERC,lerc,records,null,,
+2010,modern,50.57571,-4.65001,,England,St Breward,3,alive,6,14/06/2010,ERCCIS,telegraph.co.uk,media,media,null,"Male, female and baby - evidence of breeding? Only photo of 1 adult",https://www.telegraph.co.uk/news/earth/wildlife/7825467/Wallaby-colony-living-in-Cornwall.html
+2010,modern,50.5638,-4.68733,,England,St Breward,1,alive,6,14/06/2010,ERCCIS,Mail Online,media,media,null,"Photo, male from family of 3 reported elsewhere",https://www.dailymail.co.uk/news/article-1286256/Wild-wallaby-shocks-residents-hopping-Cornwall.html
+2011,modern,51.802403,-1.1138521,SP612119,England,"Oakley Wood entrance, Bernwood",1,,2,24/02/2011,Buckinghamshire and Milton Keynes Environmental Records Centre,BMERC,lerc,records,null,,
+2011,modern,50.72579,-2.95106,,England,Lyme Regis,1,alive,5,17/05/2011,Dorset Environmental Records Centre,BBC News,media,media,null,Video footage,https://www.bbc.co.uk/news/uk-england-13433839
+2011,modern,50.40612,-3.993,,England,Sparkwell,1,alive,11,05/08/2011,Devon Biodiversity Records Centre,BBC News,media,media,null,video footage,https://www.bbc.co.uk/news/uk-england-14424221
+2011,modern,52.736808,1.114454,,England,Great Witchingham,1,alive,,,,Yalden (2013),yalden,records,null,,
+2011,modern,51.401121,-2.4613918,,England,"Saltford, Bath",1,alive,,,,Yalden (2013),yalden,records,null,1 seen on road,
+2012,modern,52.12383,-0.05181,,England,Barton,1,alive,10,16/10/2012,Cambridgeshire and Peterborough Environmental Records Centre,BBC News,media,media,null,,https://www.bbc.co.uk/news/uk-england-cambridgeshire-19965072
+2012,modern,51.707444,-2.2618949,,England,"Woodchester Park, Stroud",3,dead,,,,Yalden (2013),yalden,records,null,3 dead,
+2012,modern,55.744888,-3.35555,,England,West Linton,2,alive,,,,Yalden (2013),yalden,records,yes,2 ESCAPEES,
+2012,modern,51.869176,-2.3064057,,England,"Highnam, A40",1,alive,,,,Yalden (2013),yalden,records,null,,
+2013,modern,52.393266,-1.738959,SP178772,England,"Knowle, Solihull",1,,6,14/06/2013,Warwickshire Biological Records Centre,WBRC,lerc,records,null,raw data in email,
+2013,modern,54.648683,-1.7580746,NZ157282,England,Toft Hill,1,,8,12/08/2013,Durham Wildlife Trust,ERIC-NE,lerc,records,null,,
+2013,modern,53.123671,-1.8592894,SK095585,England,"Ecton Hill, Manifold Valley",1,,2,05/02/2018,Staffordshire Ecological Record,SER,lerc,records,null,,
+2013,modern,51.56701,-0.14731,,England,Highgate,1,alive,10,20/10/2013,,www.bbc.com,media,media,null,,https://www.bbc.com/news/uk-england-london-24638259
+2013,modern,51.56701,-0.14731,,England,Highgate,1,alive,11,08/11/2013,,www.standard.co.uk,media,media,null,Second wallaby found roaming Highgate Cemetary - after first was removed,https://www.standard.co.uk/news/london/second-wallaby-found-roaming-highgate-cemetery-8934235.html
+2013,modern,53.92506,-2.80795,,England,Winmarleigh,1,alive,4,30/04/2013,Lancashire Environmental Records Network,telegraph.co.uk,media,media,null,,https://www.telegraph.co.uk/news/newstopics/howaboutthat/10027109/Wallaby-spotted-bounding-along-UK-country-lanes.html
+2013,modern,51.2585,0.5932,,England,Bearsted,1,alive,8,30/08/2013,Kent and Medway Biological Records Centre,Kent Online,media,media,null,,https://www.kentonline.co.uk/maidstone/news/is-it-a-bird-is-5390/
+2013,modern,53.61251,-1.91566,,England,Slaithwaite,1,alive,8,22/08/2013,West Yorkshire Ecology,BBC News,media,media,yes,Escapee,https://www.bbc.co.uk/news/uk-england-leeds-23802777
+2013,modern,52.40446,-0.08002,,England,Warboys,1,alive,1,04/01/2013,Cambridgeshire and Peterborough Environmental Records Centre,BBC News,media,media,null,Regular visitor to garden November - January,https://www.bbc.co.uk/news/uk-england-cambridgeshire-20909445
+2013,modern,51.57037,-0.90511,,England,Marlow,1,alive,4,15/04/2013,Buckinghamshire and Milton Keynes ERC,,lerc,records,null,Photo,https://www.bucksfreepress.co.uk/news/10363487.wallaby-spotted-near-marlow/
+2013,modern,51.50912,-0.94885,,England,Binfield,1,alive,9,29/09/2013,Thames Valley Environmental Records Centre,Get Reading,media,media,null,Photo,https://www.getreading.co.uk/news/reading-berkshire-news/binfield-wallaby-spotted-in-woodland--10164466
+2014,modern,50.755942,-3.9909517,SX596970,England,"Brightley, Okehampton",1,,8,25/08/2014,Devon Biodiversity Records Centre,DBRC,lerc,records,yes,Escapee,
+2014,modern,52.083087,-0.3411544,TL137440,England,Old Warden,1,,12,08/12/2014,Bedfordshire and Luton BMRC,BMRC,lerc,records,null,,
+2014,modern,51.669648,-0.86257697,SU787973,England,"Mud's Bank, Radnage",1,,9,09/09/2014,Buckinghamshire and Milton Keynes Environmental Records Centre,BMERC,lerc,records,null,,
+2014,modern,51.669648,-0.86257697,SU787973,England,"Mud's Bank, Radnage",1,,9,16/09/2014,Buckinghamshire and Milton Keynes Environmental Records Centre,BMERC,lerc,records,null,,
+2014,modern,52.39073,0.66922,,England,Elveden,1,dead,07-Jan,06/07/1905,Suffolk Biodiversity Information Service,Ben Garrod via Twitter,social_media,media,null,"Road casuality; seen in ""September/October time""",
+2014,modern,56.1067,-4.60412,,Scotland,Inchnonnachan,1,alive,,2014,,Doug Shapley via Twitter,social_media,media,null,"""Probably already aware but a known population on Inchconnachan, Loch Lomond. I can confirm seeing one myself in 2014""",
+2014,modern,51.35034,-1.98783,,England,Wiltshire,1,alive,8,05/08/2014,Wiltshire & Swindon Biological Records Centre,Wiltshire Times,media,media,null,"I think this should be counted as 1 sighting, only one individual seen at a time?",http://www.wiltshiretimes.co.uk/news/11389412.Could_Wiltshire_have_four_wandering_wallabies_/
+2014,modern,52.75926,-0.7467,,England,Wymondham,1,alive,12,29/12/2014,,BBC News,media,media,yes,Escapee,https://www.bbc.co.uk/news/av/uk-england-leicestershire-30626491/leicestershire-residents-spot-escaped-wallaby
+2014,modern,51.3248,-1.24128,,England,Kingsclere,1,alive,8,05/08/2014,Hampshire BIC,BBC News,media,media,null,"5 sightings, thought to be 1 individual but RSPCA were unconcerned",https://www.bbc.co.uk/news/uk-england-hampshire-28658308
+2014,modern,53.95803,-1.08385,,England,York,1,alive,10,08/10/2014,North & East Yorkshire Ecological Data Centre,BBC News,media,media,null,,https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-29536628
+2015,modern,51.579404,-1.9636853,SU026867,England,Someford Common,1,alive,12,09/12/2015,Wiltshire & Swindon Biological Records Centre,WMG,media,media,null,"Observed at dusk in car park. Detailed description provided by observer. Observation considered to be accurate, since observer has previous experience of a range of Macropods in Australia as well as the same species in the Peak District. Observation also fits with a report of a wallaby near Seagry, Malmsbury.",
+2015,modern,51.561536,-0.91224755,SU755853,England,Roothouse Wood,1,,5,30/05/2015,Buckinghamshire and Milton Keynes Environmental Records Centre,BMERC,lerc,records,null,,
+2015,modern,51.995266,-0.68183299,SP906338,England,Down's Covert,1,,7,08/07/2015,Buckinghamshire and Milton Keynes Environmental Records Centre,BMERC,lerc,records,null,,
+2015,modern,52.14834,-0.82534,,England,Salcey Forest,1,alive,7,31/07/2015,Northamptonshire Biodiversity Records Centre,bt.com,media,media,null,Albino,http://home.bt.com/news/news-extra/white-wallaby-spotted-in-the-uk-but-where-are-the-others-11363996041784
+2015,modern,51.4798,-0.86307,,England,Twyford,1,alive,8,28/08/2015,Thames Valley Environmental Record Centre,mirror.co.uk,media,media,null,,https://www.mirror.co.uk/news/weird-news/wallaby-caught-camera-living-wild-6365669
+2015,modern,51.67821,-2.3502,,England,Dursley,1,alive,9,26/09/2015,Gloucestershire Centre for Environmental Records,BBC News,media,media,yes,Escapee,https://www.bbc.co.uk/news/uk-england-gloucestershire-34373341
+2015,modern,52.11441,-0.82618,,England,Hanslope,1,alive,8,16/08/2015,Buckinghamshire and Milton Keynes ERC,Mail Online,media,media,null,Albino,https://www.dailymail.co.uk/news/article-3202116/I-wallaby-free-Walkers-stunned-come-face-face-runaway-albino-marsupial-British-countryside.html
+2016,modern,56.09082,-4.61429,,Scotland,,1,,3,27/03/2016,The Mammal Society,NBN,nbn,records,null,,
+2016,modern,53.55598,-0.71385,,England,Scunthorpe,1,dead,4,15/04/2016,Lincolnshire Environmental Records Centre,"Amy Schwarz, Project Splatter (via Twitter)",social_media,media,null,Road casuality,
+2016,modern,51.68575,-1.02584,,England,Unknown,1,alive,8,22/08/2016,Thames Valley Environmental Record Centre,thesun.co.uk,media,media,null,,https://www.thesun.co.uk/news/1651973/villagers-say-oxfordshire-town-is-being-overrun-by-growing-population-of-wallabies/
+2016,modern,51.12356,0.7711,,England,Bethersden,1,alive,12,01/12/2016,Kent and Medway Biological Records Centre,Kent Online,media,media,yes,Possible escpapee,https://www.kentonline.co.uk/ashford/news/am-i-going-hopping-mad-116737/
+2016,modern,51.90361,0.7941,,England,Halstead,1,dead,5,11/05/2016,None,Halstead Gazette,media,media,null,"Unconfirmed, no photo",http://www.halsteadgazette.co.uk/news/14488132.Possible_sighting_of_a_wallaby_near_Halstead/
+2016,modern,53.62314,-1.88413,,England,Slaithwaite,1,alive,7,15/07/2018,West Yorkshire Ecology,Huddersfield Daily Examiner,media,media,yes,Farm escapee,https://www.examiner.co.uk/news/west-yorkshire-news/you-seen-slaithwaites-runaway-wallaby-11621759
+2016,modern,52.80151,-3.57879,,Wales,Powys,3,alive,1,02/01/2016,Cofnod - North Wales Environmental Information Service,Daily Post,media,media,yes,"Farm escapees - one hit by car and killed, 2 okay",https://www.dailypost.co.uk/news/north-wales-news/truth-behind-those-mid-wales-10677760
+2016,modern,53.62046,-1.88067,,England,Slaithwaite,1,alive,7,14/07/2016,West Yorkshire Ecology,BBC News,media,media,null,Hopping through field at 6:30am,https://www.bbc.co.uk/news/av/uk-england-leeds-36808095/wallaby-spotted-hopping-through-slaithwaite-field
+2016,modern,53.61629,-1.90442,,England,Huddersfield,1,alive,7,15/07/2016,West Yorkshire Ecology,BBC News,media,media,yes,Escapee,https://www.bbc.co.uk/news/uk-england-leeds-36808089
+2017,modern,51.579616,-1.9581091,SU029867,England,Somerford Common Wood - East of road.,1,alive,2,24/02/2017,Wiltshire & Swindon Biological Records Centre,WMG,lerc,records,null,"Seen on roadside at 7am, on road through somerford common. Seen clearly. Description given to county recorder [Sharon Wadsworth 07949485162]",
+2017,modern,51.579616,-1.9581091,SU029867,England,Somerford Common Wood - East of road.,1,alive,3,26/03/2017,Wiltshire & Swindon Biological Records Centre,WMG,lerc,records,null,"observed and photographed, 8am, ID confirmed from images.",
+2017,modern,51.579616,-1.9581091,SU029867,England,Somerford Common Wood - East of road.,1,alive,6,01/06/2017,Wiltshire & Swindon Biological Records Centre,WMG,lerc,records,null,wallaby seen and photographed during butterfly survey. ID confirmed.,
+2017,modern,51.06222,-0.32589,,England,Horsham,1,alive,8,31/08/2017,Sussex Biodiversity Record Centre,SxBRC,lerc,records,null,"Spotted on road by my work 
+colleague at around 7am.",https://www.aol.co.uk/2017/08/21/taxi-driver-amazed-as-he-spots-wallaby-in-west-sussex/?guccounter=1
+2017,modern,53.14391,-4.39182,,Wales,Anglesey,1,dead,11,24/11/2017,Cofnod - North Wales Environmental Information Service,Dan Brown via Twitter,social_media,media,null,"Washed up on beach, likely from Lambay Island",
+2017,modern,51.12884,0.75359,,England,Bethersden,1,alive,3,28/03/2017,,www.express.co.uk,media,media,null,,https://www.express.co.uk/news/nature/784878/Wild-wallaby-spotted-marsupial-garden-animal
+2017,modern,51.57653,-0.98919,,England,"Nettlebed, Henley-on-Thames",1,alive,8,31/08/2017,,bbc.com,media,media,null,"Several sightings of one indiviudal at a time, but possible population",https://www.bbc.com/news/uk-england-oxfordshire-41087209
+2017,modern,52.58532,-1.98183,,England,Walsall,1,alive,5,03/05/2017,Staffordshire Ecological Record,metro.co.uk,media,media,yes,Escapee,https://metro.co.uk/2017/05/03/wallaby-found-blocking-dual-carriageway-in-walsall-6614445/
+2017,modern,51.57946,-1.9625,,England,Somerford Common,1,alive,8,19/08/2017,Wiltshire & Swindon Biological Records Centre,gazetteandherald.co.uk,media,media,null,,http://www.gazetteandherald.co.uk/news/15488720.VIDEO__Joggers_spot_wallaby_in_Somerford_Common/
+2017,modern,52.0947,0.66467,,England,Liston/Glemsford,1,alive,9,25/09/2017,Sussex Biodiversity Record Centre,bbc.com,media,media,yes,"Albino, potential escapee",https://www.bbc.com/news/av/uk-england-suffolk-41392819/white-wallaby-spotted-on-the-suffolk-essex-border
+2017,modern,51.57296,-0.93031,,England,Henley-on-Thames,1,alive,8,24/08/2017,Thames Valley Environmental Record Centre,bbc.com,media,media,null,,https://www.bbc.com/news/uk-england-oxfordshire-41041727
+2017,modern,51.53125,-0.97722,,England,Rotherfield Peppard,1,alive,8,24/08/2017,Thames Valley Environmental Record Centre,heart.co.uk,media,media,null,,https://www.heart.co.uk/thamesvalley/news/local/wallaby-spotted-on-oxfordshireberkshire-boarder/
+2017,modern,51.46042,-1.10721,,England,Reading,1,dead,12,23/12/2017,Thames Valley Environmental Record Centre,Jack D Ashby via Twitter,social_media,media,null,Anyone travelling west on the M4 keep an eye out around mile-marker 85 - I'm 80% sure I saw a dead #wallaby. 5mins past Reading services. #Roadkill #mammalwatching. @ProjectSplatter,https://twitter.com/JackDAshby/status/944537065177436160
+2017,modern,50.63561,-4.36106,,England,Launceston,1,alive,,,ERCCIS,Cornwall Live,media,media,null,,https://www.cornwalllive.com/news/cornwall-news/bizarre-wild-animal-sightings-reported-1500946
+2017,modern,50.38579,-4.61906,,England,Lerryn,1,alive,,,ERCCIS,Cornwall Live,media,media,null,,https://www.cornwalllive.com/news/cornwall-news/bizarre-wild-animal-sightings-reported-1500946
+2017,modern,50.40602,-4.67506,,England,Lostwithiel,1,alive,,,ERCCIS,Cornwall Live,media,media,null,,https://www.cornwalllive.com/news/cornwall-news/bizarre-wild-animal-sightings-reported-1500946
+2017,modern,50.611,-4.39328,,England,South Petherwin,1,alive,7,05/07/2017,ERCCIS,Daily Mail,media,media,null,Video footage by Colin Mullis,https://www.dailymail.co.uk/news/article-4668596/Runaway-WALLABY-spotted-Cornwall-fourth-time.html
+2017,modern,50.59996,-4.3934,,England,Trecrogo,1,alive,5,08/05/2017,ERCCIS,Cornwall Live,media,media,null,Filmed by Maggie and Andrew Elder and failed capture attempt by RSPCA,https://www.bbc.co.uk/news/av/uk-england-cornwall-39860558/wallaby-spotted-near-cornish-pub
+2018,modern,51.579616,-1.9581091,SU029867,England,Somerford Common Wood - East of road.,1,alive,1,01/01/2018,Wiltshire & Swindon Biological Records Centre,WMG,lerc,records,null,wallaby seen at roadside,
+2018,modern,51.46566,-1.64846,,England,Marlborough,1,alive,6,02/06/2018,Wiltshire & Swindon Biological Records Centre,bbc.com,media,media,null,Albino,https://www.bbc.com/news/uk-england-wiltshire-44343012
+2018,modern,51.5793,-1.96037,,England,Somerford Common,1,alive,3,08/03/2018,Wiltshire & Swindon Biological Records Centre,Facebook,social_media,media,null,Wiltshire Wallaby Watch Facebook group,https://www.facebook.com/groups/wiltshirewallabywatch/permalink/1971470166450754/
+2018,modern,55.65371,-4.70283,,Scotland,Ayrshire,1,alive,7,03/07/2018,South West Scotland Environmental Information Centre,The Scottish Sun,media,media,null,,https://www.thescottishsun.co.uk/news/2885315/wallaby-lanarkshire-kilwinning-road-scotland-farm/
+2018,modern,50.88679,-3.23581,,England,Hemyock,1,alive,5,16/05/2018,Devon Biodiversity Records Centre,swns.com,media,media,yes,1 of 3 which previously escaped from a farm and were not tracked down,https://stories.swns.com/news/wallaby-on-the-loose-in-the-uk-98036/
+2018,modern,52.31687,-1.44058,,England,Hunningham,1,alive,5,07/05/2018,Warwickshire Biological Records Centre,Coventry Telegraph,media,media,null,,https://www.coventrytelegraph.net/news/local-news/wandering-wallaby-warwickshire-returns-eathorpe-14634614
+2018,modern,52.51215,-2.2828,,England,Bobbington,1,alive,8,14/08/2018,Staffordshire Ecological Record,bbc.com,media,media,yes,Escapee - returned to zoo. Named Holly!,https://www.bbc.co.uk/news/uk-england-stoke-staffordshire-45349321
+2018,modern,54.21635,-0.30704,,England,Filey,1,alive,8,20/08/2018,North & East Yorkshire Ecological Data Centre,bbc.com,media,media,yes,Zoo escapee,https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-45342546
+2018,modern,51.07233,-2.17221,,England,East Knoyle,1,alive,8,29/08/2018,Wiltshire & Swindon Biological Records Centre,Salisbury Journal,media,media,yes,Escapee,http://www.salisburyjournal.co.uk/news/16611131.have-you-seen-bruce-wallaby-missing-from-east-knoyle/
+2018,modern,51.89713,0.52671,,England,Panfield,1,alive,8,03/08/2018,None,The Sun,media,media,yes,Escapee - from travelling carnival in June?,https://www.thesun.co.uk/news/6948425/wallaby-braintree-essex-escaped-carnival/
+2018,modern,51.89828,0.54798,,England,Braintree,1,alive,8,04/08/2018,N/A,Braintree and Witham Times,media,media,null,,https://www.braintreeandwithamtimes.co.uk/news/north_essex_news/16401468.video-wallaby-spotted-bouncing-its-way-around-braintree/
+2018,modern,51.06704,0.68811,,England,Tenterden,1,alive,11,24/11/2018,Kent and Medway Biological Records Centre,Kent Online,media,media,null,Video,https://www.kentonline.co.uk/ashford/news/video-wallaby-hops-to-it-over-the-road-194055/
+2018,modern,51.08471,0.06866,,England,Ashdown,1,alive,6,26/06/2018,Sussex Biodiversity Record Centre,Kent Live,media,media,null,Video,https://www.kentlive.news/news/sussex-news/updates-wallaby-filmed-loose-ashdown-1715321
+2018,modern,51.09544,0.09895,,England,Hartfield,1,alive,6,06/06/2018,Sussex Biodiversity Record Centre,Sussex Express,media,media,null,Several sightings reported,https://www.sussexexpress.co.uk/news/kangaroo-encounter-catches-astonished-motorist-on-the-hop-1-8525755
+2019,modern,53.66678,-0.28926,,England,Killingholme,2,alive,1,15/01/2019,Greater Lincolnshire Nature Partnership,Grimsby Live,media,media,null,"Ambiguous photo, observer claims individual with joey in pouch. 2019, exclude? Mention as potential sign of breeding?",https://www.grimsbytelegraph.co.uk/news/grimsby-news/kangaroo-lincolnshire-donkey-rabbit-scooby-2434638
+2009,historic,53.155132,-2.001455,SK0062,England,Peak District,,,,,,,yalden,records,null,Yalden (2013),
+1970,historic,51.011452,-0.26229746,TQ2225,England,Ashdown Forest,,,,,,,yalden,records,null,Lever (2009),
+2013,historic,56.090053,-4.6145877,NS3791,Scotland,"Inchconnachan, L Lomond",,,,,,,yalden,records,null,"4 released, up to 43 present 1999",
+1973,historic,54.277075,-0.40427196,TA0488,,Scarborough,,,,,,,yalden,records,yes,Escapee,
+1977,historic,52.934693,1.1084606,TG0942,,Kelling,,,,,,,yalden,records,yes,Escapee,
+1978,historic,52.2009,0.13493078,TL4658,England,Cambridge,,,,,,,yalden,records,yes,Escapee,
+1978,historic,50.671526,-1.2938048,SZ5086,,"Hanenstreet, Isle of Wight",,,,,,,yalden,records,yes,Escapee,
+2013,historic,53.712371,-2.1075342,SD9324,,Todmorden,,,,,,,yalden,records,null,Todmorden news. 1 seen recently,
+1984,historic,52.451098,1.0301133,TM0688,England,"Banham, Norfolk",,,,,,,yalden,records,yes,Escapee,
+1983,historic,52.217476,-1.1963698,SP5558,,"Badby, Northants",,,,,,,yalden,records,null,,
+1984,historic,50.655677,-1.9872158,SZ0184,England,"Furzey Island, Dorset",,,,,,,yalden,records,null,,
+1984,historic,50.547125,-3.4974561,SX9473,,Teignmouth,,,,,,,yalden,records,yes,"Escapees, recaptured",
+1984,historic,52.103875,0.02807734,TL3947,,"Shepreth, Cambs",,,,,,,yalden,records,yes,"Escapees, recaptured",
+1985,historic,51.596659,-1.1351853,SU6089,,Wallingford,,,,,,,yalden,records,null,Drowned in swimming pool,
+1985,historic,51.567895,-0.91930991,SU7586,,Henley,,,,,,,yalden,records,null,Sunday Telegraph,
+1986,historic,50.556296,-3.4836293,SX9574,,Dawlish,,,,,,,yalden,records,yes,Escapee,
+1986,historic,52.444078,-0.47132041,TL0484,,"Lilford, Northants",,,,,,,yalden,records,yes,Escapees ,
+1987,historic,51.506233,-1.0765982,SU6479,England,"Whitchurch Hill, Oxford",,,,,,,yalden,records,yes,Escapee,
+1987,historic,50.941752,-2.6276248,ST5616,,"Yeovil, A30",,,,,,,yalden,records,null,,
+1987,historic,53.68532,-1.8197818,SE1221,,"Sixby, Huddersfield",,,,,,,yalden,records,null,,
+1987,historic,51.832311,-2.5528599,SO6215,,"Brierly, Cinderford",,,,,,,yalden,records,yes,Escapee,
+1988,historic,54.36669,-2.6633127,SD5797,England,"Grayrigg, Cumbria",,,,,,,yalden,records,null,Daily Telegraph. 1 seen regularly,
+1989,historic,52.14251,-0.83239238,SP8050,,Salcey Forest,,,,,,,yalden,records,null,1 seen crossing road,
+1989,historic,50.855626,-1.5956615,ST3-0,,"New Forest, SE quarter",,,,,,,yalden,records,null,"Deer 7:433. 1 seen, disturbing sika",
+1989,historic,53.09136,-2.4494115,SJ7055,,Crewe,,,,,,,yalden,records,yes,3 escapees,
+1990,historic,51.858895,-0.52966118,SU9734,England,Dunstable,,,,,,,yalden,records,yes,Escapee,
+1990,historic,50.375671,-4.5609556,SX1856,,"Boconnoc Estate, Lanreath",,,,,,,yalden,records,yes,Escapee,
+1990,historic,50.863548,-0.63726667,SU9608,,Littlehampton,,,,,,,yalden,records,yes,Escapees,
+1992,historic,54.772375,-1.5818354,NZ2742,England,Durham,,,,,,,yalden,records,yes,Escapee,
+1993,historic,51.613378,0.29502432,TQ5993,,Brentwood,,,,,,,yalden,records,yes,Escapee,
+1995,historic,50.863548,-0.63726667,SU9608,,"Slindon, Littlehampton",,,,,,,yalden,records,null,1 seen  ,
+1995,historic,53.870365,-2.9596002,SD3742,,"Hambleton, Lancs",,,,,,,yalden,records,yes,Escapee,
+1997,historic,55.033164,-1.7042765,NZ1971,England,Newcastle Airport,,,,,,,yalden,records,null,1 seen,
+1997,historic,54.62011,-2.0944337,NY9425,,Middleton-by-Teesdale,,,,,,,yalden,records,null,14 seen,
+2002,historic,51.660131,-0.90180713,SU7956,,"Stokenchurch, M40",,,,,,,yalden,records,null,1 dead on road,
+2002,historic,52.776654,0.11852129,TF4322,England,"Long Sutton, Lincs",,,,,,,yalden,records,null,1 seen,
+2003,historic,52.372597,-2.3245688,SO7875,England,"Bewdley Hill, Worcs",,,,,,,yalden,records,null,"1 captured, source unknown",
+2005,historic,52.768111,-1.6605539,SK2319,England,"Drakelow, Derbyshire",,,,,,,yalden,records,null,1 seen on road,
+2005,historic,52.286612,-0.85792963,SP7866,,"Moulton, Northants",,,,,,,yalden,records,yes,Escapee,
+2005,historic,52.060241,-0.703259991,SP8941,England,"Milton Keynes, M1",,,,,,,yalden,records,null,1 seen on road,
+2007,historic,55.590535,-1.8428988,NU1033,England,"Belford, Northumberland",,,,,,,yalden,records,yes,3 escapees,
